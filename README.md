@@ -31,7 +31,7 @@ List of hypotheses and the corresponding p-value of the significance test, where
 |H11 Headlines that start with a personal or possessive pronoun are preferred|**0.002**|**0**|0.429|
 
 
-Table2. The popularity features. The following 11 features are transformed from the hypotheses stated in Table1. GT indicates the abbreviation of ground-truth headlines. <cite>[Chen et al. 2018](https://arxiv.org/abs/1805.11080)</cite>
+Table2. The popularity features. The following 11 features are transformed from the hypotheses stated in Table1. GT indicates the abbreviation of ground-truth headlines, and Chen et al. is one of our baselines <cite>[Chen et al. 2018](https://arxiv.org/abs/1805.11080)</cite>.
 
 |Hypothesis|Significance|GT|PORL|Chen et al.|
 |----|----|----|----|----|
