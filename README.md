@@ -9,7 +9,7 @@ You can follow the [instructions](https://github.com/ChenRocks/cnn-dailymail) to
 The datasets can be associated by the **id**.
 
 ##
-The source code will be updating in the coming future.
+The source code will be updated in the coming future.
 
 ## More Experiment Results
 
@@ -29,3 +29,19 @@ List of hypotheses and the corresponding p-value of the significance test, where
 |H9 Headlines that contain one or more negative sentimental word are preferred|**0.001**|**0.001**|**0.015**|
 |H10 Headlines that contain a number are preferred over headlines that do not|0.202|**0**|**0.06**|
 |H11 Headlines that start with a personal or possessive pronoun are preferred|**0.002**|**0**|0.429|
+
+
+Table2. The popularity features. The following 11 features are transformed from the hypotheses stated in Table1. GT indicates the abbreviation of ground-truth headlines.
+|Hypothesis|Significance|GT|PORL|Chen et al.|
+|----|----|----|----|----|
+|H1 The average character length of a headline | False| 70.55|**96.21**|73.92|
+|H2 The average of token lengths in a headline (lower is better) | True |  4.97 | **4.78** | 4.89|
+|H3 The percentage of headlines containing a question mark | True | **2.52** | 0.90% | 1.19%|
+|H4 The percentage of headlines containing a partial quote | True | 11.81% |**15.80%** | 13.85%|
+|H5 The percentage of headline containing full quote (lower is better) | False | 0.01% | **0.00%** | **0.00%** |
+|H6 The percentage of headline containing signal words | True | 9.90% | **19.83%** | 15.00% |
+|H7 The percentage of headline containing personal or possessive pronoun | True | 28.82% | **48.67%** | 40.35%|
+|H8 The percentage of headline containing sentimental words | True | 68.82% | **77.40%** | 69.37% |
+|H9 The percentage of headline containing negative words | True | 45.09% | **52.29%** | 44.83%|
+|H10 The percentage of headline containing numbers | False | 20.58% | **25.22%** | 21.06% |
+|H11 The percentage of headline starting with personal or possessive pronoun | True | 0.64% |**1.07%** | 0.38% |
