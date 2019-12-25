@@ -11,6 +11,7 @@ The dataset is collected according to the url links provided by <cite>[Nallapati
 The DH, DHC datasets can be associated with CNNDM by the **id**.
 
 The dataset information:
+
 |    | train  | val   | test  |
 |----|--------|-------|-------|
 | DH | 281208 | 12727 | 10577 |
