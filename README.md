@@ -12,8 +12,9 @@ The DH, DHC datasets can be associated with CNNDM by the **id**.
 
 The dataset information:
 |    | train  | val   | test  |
+|----|--------|-------|-------|
 | DH | 281208 | 12727 | 10577 |
-| DHC| 281208 | 11862 | 10130 |
+| DHC| 138787 | 11862 | 10130 |
 
 
 ##
