@@ -6,7 +6,7 @@ CNNDM-DH, DM-DHC Datasets download link: [PORLHG](https://bit.ly/2TkSbIQ)
 
 You can follow the [instructions](https://github.com/ChenRocks/cnn-dailymail) to download and preprocess the CNN/DailyMail dataset. 
 
-The dataset is collected according to the url links provided by <cite>[Nallapati et al. 2016](https://arxiv.org/abs/1602.06023)</cite> <cite>[Hermann et al. 2015](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+The dataset is collected according to the url links provided by <cite>[Nallapati et al. 2016](https://arxiv.org/abs/1602.06023)</cite>, <cite>[Hermann et al. 2015](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 
 The DH, DHC datasets can be associated with CNNDM by the **id**.
 
