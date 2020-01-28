@@ -48,7 +48,7 @@ Table2. The popularity features. The following 11 features are transformed from 
 |----|----|----|----|----|
 |H1 The average character length of a headline | False| 70.55|**96.21**|73.92|
 |H2 The average of token lengths in a headline (lower is better) | True |  4.97 | **4.78** | 4.89|
-|H3 The percentage of headlines containing a question mark | True | **2.52** | 0.90% | 1.19%|
+|H3 The percentage of headlines containing a question mark | True | **2.52%** | 0.90% | 1.19%|
 |H4 The percentage of headlines containing a partial quote | True | 11.81% |**15.80%** | 13.85%|
 |H5 The percentage of headline containing full quote (lower is better) | False | 0.01% | **0.00%** | **0.00%** |
 |H6 The percentage of headline containing signal words | True | 9.90% | **19.83%** | 15.00% |
