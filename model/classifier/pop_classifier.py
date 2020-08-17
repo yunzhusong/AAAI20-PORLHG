@@ -34,7 +34,7 @@ conv_hidden = 300
 
 def write_file(path_in, path_out):
     num = len(os.listdir(path_in))
-    num = 10577
+    #num = 10577
     with open(path_out, 'w') as f:
         print("Create the inference data for classifier at: {}".format(path_out))
         f.write("headline\tcomment\tshare\n")
