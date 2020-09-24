@@ -2,7 +2,9 @@
 Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf).
 
 ```
-“A good basic selling idea, involvement and relevancy, of course, are as important as ever, but in the advertising din of today, unless you make yourself noticed and believed, you ain’t got nothing”
+“A good basic selling idea, involvement and relevancy, of course, are as important as ever,
+but in the advertising din of today, unless you make yourself noticed and believed, you ain’t got nothing”
+
 — Leo Burnett (1891-1971)
 ```
 
