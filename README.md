@@ -1,5 +1,5 @@
 # PORL-HG
-Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation].
+Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf).
 ![Example](https://github.com/yunzhusong/AAAI20-PORLHG/blob/master/PORLHG_example.png)
 
 ## Dataset
