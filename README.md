@@ -1,5 +1,6 @@
 # PORL-HG
 Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation].
+![Example](https://github.com/yunzhusong/AAAI20-PORLHG/blob/master/PORLHG_example.png)
 
 ## Dataset
 CNNDM-DH, DM-DHC Datasets download link: [PORLHG](https://bit.ly/2TkSbIQ)
