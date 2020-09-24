@@ -1,5 +1,5 @@
 # PORL-HG
-[Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf) is accepted by AAAI2020.
+Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation].
 
 ## Dataset
 CNNDM-DH, DM-DHC Datasets download link: [PORLHG](https://bit.ly/2TkSbIQ)
@@ -59,11 +59,11 @@ Table2. The popularity features. The following 11 features are transformed from 
 |H11 The percentage of headline starting with personal or possessive pronoun | True | 0.64% |**1.07%** | 0.38% |
 
 ## Cite
-'''
+```
 @article{song2020attractive,
   title={Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation},
   author={Song, Yun-Zhu and Shuai, Hong-Han and Yeh, Sung-Lin and Wu, Yi-Lun and Ku, Lun-Wei and Peng, Wen-Chih},
   journal={arXiv preprint arXiv:2002.02095},
   year={2020}
 }
-'''
+```
