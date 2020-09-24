@@ -8,7 +8,7 @@ but in the advertising din of today, unless you make yourself noticed and believ
 — Leo Burnett (1891-1971)
 ```
 
-
+Generation Examples
 ![Example](https://github.com/yunzhusong/AAAI20-PORLHG/blob/master/PORLHG_example.png)
 
 ## Dataset
@@ -32,7 +32,6 @@ The dataset information:
 [//]: # (The source code will be updated in the coming future.)
 
 ## More Experiment Results
-
 Table1. Correlation Analysis of CTR, comments and shares
 List of hypotheses and the corresponding p-value of the significance test, where **bold text** indicates significant hypothesis (p-value < 0.05). Note the p-value of CTR is referenced from <cite>[Kuiken et al. 2017](https://www.tandfonline.com/doi/full/10.1080/21670811.2017.1279978)</cite>
 
@@ -49,7 +48,6 @@ List of hypotheses and the corresponding p-value of the significance test, where
 |H9 Headlines that contain one or more negative sentimental word are preferred|**0.001**|**0.001**|**0.015**|
 |H10 Headlines that contain a number are preferred over headlines that do not|0.202|**0**|**0.06**|
 |H11 Headlines that start with a personal or possessive pronoun are preferred|**0.002**|**0**|0.429|
-
 
 
 Table2. The popularity features. The following 11 features are transformed from the hypotheses stated in Table1. GT indicates the abbreviation of ground-truth headlines, and Chen et al. is one of our baselines <cite>[Chen et al. 2018](https://arxiv.org/abs/1805.11080)</cite>.
