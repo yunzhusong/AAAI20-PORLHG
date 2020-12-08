@@ -1,6 +1,7 @@
 # PORL-HG
-Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf).
 
+Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf).
+The paper has been accepted by AAAI2020, NY.
 ```
 “A good basic selling idea, involvement and relevancy, of course, are as important as ever,
 but in the advertising din of today, unless you make yourself noticed and believed, you ain’t got nothing”
@@ -68,6 +69,8 @@ Table2. The popularity features. The following 11 features are transformed from 
 
 ## Cite
 ```
+Song, Y.-Z., Shuai, H.-H., Yeh, S.-L., Wu, Y.-L., Ku, L.-W., & Peng, W.-C. (2020). Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation. Proceedings of the AAAI Conference on Artificial Intelligence, 34(05), 8910-8917. https://doi.org/10.1609/aaai.v34i05.6421
+
 @article{song2020attractive,
   title={Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation},
   author={Song, Yun-Zhu and Shuai, Hong-Han and Yeh, Sung-Lin and Wu, Yi-Lun and Ku, Lun-Wei and Peng, Wen-Chih},
