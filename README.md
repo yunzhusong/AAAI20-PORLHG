@@ -1,7 +1,7 @@
-# PORL-HG
+# PORL-HG (The paper has been published by AAAI 2020.)
 
 Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf).
-The paper has been accepted by AAAI2020, NY.
+
 ```
 “A good basic selling idea, involvement and relevancy, of course, are as important as ever,
 but in the advertising din of today, unless you make yourself noticed and believed, you ain’t got nothing”
