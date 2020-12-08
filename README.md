@@ -1,4 +1,4 @@
-# PORL-HG (The paper has been published by AAAI 2020.)
+# PORL-HG (The paper has been published in AAAI 2020 as a long paper.)
 
 Code implementation of [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf).
 
