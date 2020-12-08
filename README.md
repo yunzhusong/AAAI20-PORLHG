@@ -69,12 +69,5 @@ Table2. The popularity features. The following 11 features are transformed from 
 
 ## Cite
 ```
-Song, Y.-Z., Shuai, H.-H., Yeh, S.-L., Wu, Y.-L., Ku, L.-W., & Peng, W.-C. (2020). Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation. Proceedings of the AAAI Conference on Artificial Intelligence, 34(05), 8910-8917. https://doi.org/10.1609/aaai.v34i05.6421
-
-@article{song2020attractive,
-  title={Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation},
-  author={Song, Yun-Zhu and Shuai, Hong-Han and Yeh, Sung-Lin and Wu, Yi-Lun and Ku, Lun-Wei and Peng, Wen-Chih},
-  journal={arXiv preprint arXiv:2002.02095},
-  year={2020}
-}
+@article{Song_Shuai_Yeh_Wu_Ku_Peng_2020, title={Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation}, volume={34}, url={https://ojs.aaai.org/index.php/AAAI/article/view/6421}, DOI={10.1609/aaai.v34i05.6421}, author={Song, Yun-Zhu and Shuai, Hong-Han and Yeh, Sung-Lin and Wu, Yi-Lun and Ku, Lun-Wei and Peng, Wen-Chih}, year={2020}, month={Apr.}, pages={8910-8917} }
 ```
