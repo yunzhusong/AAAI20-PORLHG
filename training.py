@@ -16,11 +16,9 @@ import tensorboardX
 
 def get_basic_grad_fn(net, clip_grad, max_grad=1e2):
     def f():
-        pdb.set_trace()
         grad_norm = clip_grad_norm_(
             [p for p in net.parameters() if p.requires_grad], clip_grad)
         #grad_norm = grad_norm.item() #yunzhu
-        pdb.set_trace()
         if max_grad is not None and grad_norm >= max_grad:
             print('WARNING: Exploding Gradients {:.2f}'.format(grad_norm))
             grad_norm = max_grad
@@ -155,7 +153,7 @@ class BasicPipeline(object):
             print("該層結構:{},参数和:{}".format(str(list(i.size())), str(l)))
             k = k + l
         print("总参数数量和：" + str(k))
-        pdb.set_trace()"""
+        """
 
         if self.name.split('_')[-1] == 'extractor':
             sent_topics = fw_args[3]
